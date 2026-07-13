@@ -12,6 +12,8 @@ An AI-powered agent that researches queries and generates accurate, context-awar
 ## Tech Stack
 - Python
 - OpenAI API
+- HTML
+- CSS
 
 ## How to Run
 1. Clone this repository
